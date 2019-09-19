@@ -137,24 +137,20 @@
           <h3 class="section-title">Plan Your Trip</h3>
           <p class="section-description">Drop us your travel time, and leave the rest on us to figure out.</p>
         </div>
-        <div class="row counters">
+        <div class="row counters justify-content-md-center">
 
           <!--<form class="" action="" method="post">
 
           </form>-->
 
-  				<div class="col-lg-12 col-6 text-center">
+  				<!--<div class="col-lg-12 col-6 text-center">
             <span data-toggle="counter-up">232</span>
             <p>Clients</p>
   				</div>
 
           <div class="col-lg-12 col-6 text-center center">
-            <!--<span data-toggle="counter-up">521</span>
-            <p>Projects</p>-->
-            <div class="form-group" style="width: 25%;">
-              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-              <div class="validation"></div>
-            </div>
+            <span data-toggle="counter-up">521</span>
+            <p>Projects</p>
   				</div>
 
           <div class="col-lg-12 col-6 text-center">
@@ -170,7 +166,18 @@
           <div class="col-lg-6 col-6 text-center">
             <span data-toggle="counter-up">15</span>
             <p>Hard Workers</p>
-  				</div>
+  				</div>-->
+
+          <div class="col-xs-12 col-md-6 col-md-offset-3">
+            <form class="" action="index.html" method="post">
+              <input type="text" class="custom-input custom-input-full-width" name="" placeholder="Your Name" value=""> <br><br>
+              <input type="email" class="custom-input custom-input-full-width" name="" placeholder="Your Email" value=""> <br><br>
+              <input type="tel" class="custom-input custom-input-full-width" name="" placeholder="Your Phone" value=""> <br><br>
+              <input type="date" class="custom-input custom-input-half-width" name="" placeholder="Start Date" value=""> &nbsp;to&nbsp;
+              <input type="date" class="custom-input custom-input-half-width" name="" placeholder="End Date" value=""> <br> <br>
+              <button type="submit" class="submit-button">Send Message</button>
+            </form>
+          </div>
 
   			</div>
 
@@ -562,7 +569,7 @@
 
     <div class="container">
       <div class="copyright">
-        <!--&copy; Copyright <strong>Regna</strong>.-->LOL All Rights Reserved
+        <!--&copy; Copyright <strong>Regna</strong>.--> All Rights Reserved
       </div>
       <div class="credits">
         <!--

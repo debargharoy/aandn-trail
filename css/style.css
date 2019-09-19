@@ -981,3 +981,28 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ccc;
 }
+
+/*--------------------------------------------------------------
+# Custom CSS
+--------------------------------------------------------------*/
+
+.custom-input {
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+.custom-input-full-width {
+  width: 100%;
+}
+
+.custom-input-half-width {
+  width: 47%;
+}
+
+.submit-button {
+  background-color: #2dc997;
+  color: #fff;
+  padding: 5px 10px;
+  border: 0px;
+}
