@@ -183,35 +183,35 @@
     <section id="services">
       <div class="container wow fadeIn">
         <div class="section-header">
-          <h3 class="section-title">Services</h3>
-          <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <h3 class="section-title">How We Work?</h3>
+          <p class="section-description"></p>
         </div>
         <div class="row">
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="box">
-              <div class="icon"><a href=""><i class="fa fa-desktop"></i></a></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <div class="icon"><a href=""><i class="fa fa-pencil"></i></a></div>
+              <h4 class="title"><a href="">Fill The Form</a></h4>
+              <p class="description">Fill the above form and reach out to us for assitance.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
             <div class="box">
-              <div class="icon"><a href=""><i class="fa fa-bar-chart"></i></a></div>
-              <h4 class="title"><a href="">Dolor Sitema</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <div class="icon"><a href=""><i class="fa fa-phone"></i></a></div>
+              <h4 class="title"><a href="">We Reach Out to You</a></h4>
+              <p class="description">We will get in touch with you as soon as possible, and try to understand what you need and how it is feasible</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
             <div class="box">
-              <div class="icon"><a href=""><i class="fa fa-paper-plane"></i></a></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <div class="icon"><a href=""><i class="fa fa-handshake-o"></i></a></div>
+              <h4 class="title"><a href="">Welcome On-board</a></h4>
+              <p class="description">We arrange all the services that you need for on-boarding and ensure your utmost comfort.</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+          <!--<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="box">
-              <div class="icon"><a href=""><i class="fa fa-photo"></i></a></div>
+              <div class="icon"><a href=""><i class="fa fa-handshake-o"></i></a></div>
               <h4 class="title"><a href="">Magni Dolores</a></h4>
               <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
             </div>
@@ -229,7 +229,7 @@
               <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
               <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
             </div>
-          </div>
+          </div>-->
         </div>
 
       </div>
@@ -238,7 +238,7 @@
     <!--==========================
     Call To Action Section
     ============================-->
-    <section id="call-to-action">
+    <!--<section id="call-to-action">
       <div class="container wow fadeIn">
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
@@ -256,7 +256,7 @@
     <!--==========================
       Portfolio Section
     ============================-->
-    <section id="portfolio">
+    <!--<section id="portfolio">
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h3 class="section-title">Portfolio</h3>
@@ -404,7 +404,7 @@
     <!--==========================
       Team Section
     ============================-->
-    <section id="team">
+    <!--<section id="team">
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h3 class="section-title">Team</h3>
@@ -477,13 +477,13 @@
     <section id="contact">
       <div class="container wow fadeInUp">
         <div class="section-header">
-          <h3 class="section-title">Contact</h3>
-          <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <h3 class="section-title">Contact Us</h3>
+          <p class="section-description">We are here to help! Reach out to us for any assistance. </p>
         </div>
       </div>
 
       <!-- Uncomment below if you wan to use dynamic maps -->
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>-->
 
       <div class="container wow fadeInUp mt-5">
         <div class="row justify-content-center">
@@ -493,7 +493,7 @@
             <div class="info">
               <div>
                 <i class="fa fa-map-marker"></i>
-                <p>A108 Adam Street<br>New York, NY 535022</p>
+                <p>Office Address<br>City, State</p>
               </div>
 
               <div>
@@ -507,13 +507,13 @@
               </div>
             </div>
 
-            <div class="social-links">
+            <!--<div class="social-links">
               <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
               <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
               <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
               <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
               <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
-            </div>
+            </div>-->
 
           </div>
 
@@ -562,7 +562,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>Regna</strong>. All Rights Reserved
+        <!--&copy; Copyright <strong>Regna</strong>.--> All Rights Reserved
       </div>
       <div class="credits">
         <!--
@@ -571,7 +571,7 @@
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Regna
         -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        <!--Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>-->
       </div>
     </div>
   </footer><!-- #footer -->
