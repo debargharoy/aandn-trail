@@ -1006,3 +1006,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 5px 10px;
   border: 0px;
 }
+
+.faq-btn {
+  background: rgba(255, 255, 255, 0);
+  color: #666666;
+}
