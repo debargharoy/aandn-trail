@@ -20,10 +20,17 @@
   <header id="header">
     <div class="container">
 
+      <style media="screen">
+        .logo-image {
+          height: 45px;
+          width: auto;
+        }
+      </style>
+
       <div id="logo" class="pull-left">
-        <!--<a href="#hero"><img src="img/logo.png" alt="" title="" /></img></a>-->
+        <a href="#hero"><img src="img/new_horizon_logo.png" alt="" title="" class="logo-image"></a>
         <!-- Uncomment below if you prefer to use a text logo -->
-        <h1><a href="#hero">New Horizon</a></h1>
+        <!--<h1><a href="index.php">New Horizon</a></h1>-->
       </div>
 
       <nav id="nav-menu-container">
