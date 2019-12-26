@@ -34,6 +34,12 @@ table {
   color: #666666;
   padding: 5px 10px;
 }
+.price-list {
+  text-align: left;
+}
+.price-name {
+  text-align: right;
+}
 </style>
 
 <main  id="main">
@@ -46,84 +52,365 @@ table {
           <h2><strong>Packages We Offer</strong></h2>
       </div>
 
-      <div class="row py-3">
-        <div class="col-md-4">
-          <div class="card" style="width: 100%;">
-            <img class="card-img-top" src="" alt="Card image ">
-            <div class="card-body">
-              <center><h5 class="card-title">Package Name</h5></center>
-              <p class="card-text" style="text-align: justify">Description</p>
-              <table>
-                <tr class="pack-list">
-                  <td>Feature 1</td>
-                </tr>
-                <tr class="pack-list">
-                  <td>Feature 2</td>
-                </tr>
-                <tr class="pack-list">
-                  <td>Feature 3</td>
-                </tr>
-                <tr class="pack-list">
-                  <td>Feature 4</td>
-                </tr>
-              </table>
-              <p class="card-text show-price">&#x20B9; XXXX /person</p>
-              <center><button class="pack-btn" type="button" data-toggle="modal" data-target="#packagemodal1">View Details</button></center>
-            </div>
-          </div>
+      <div class="">
+        <div class="row py-3 justify-content-md-center">
+          <h3><strong>4 Days and 3 Nights</strong></h3>
         </div>
+        <div class="row py-3">
+          <div class="col-md-4">
+            <div class="card" style="width: 100%;">
+              <!--<img class="card-img-top" src="" alt="Card image ">-->
+              <div class="card-body">
+                <center><h5 class="card-title" style="font-weight:bold">Package 1</h5></center>
+                <p class="card-text" style="text-align: justify; font-weight: bold">
+                  3N in Port Blair - Havelock Day Trip
+                </p>
+                <table>
+                  <tr class="pack-list">
+                    <td>Day 1:- corbyn +jail visit+ light and sound show at jail</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 2:Havelock Island : Radhanagar Beach</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 3: Ross & North Bay Island Visit</td>
+                  </tr>
+                </table>
+                <p class="card-text" style="text-align: center; font-weight: bold">
 
-        <div class="col-md-4">
-          <div class="card" style="width: 100%;">
-            <img class="card-img-top" src="" alt="Card image ">
-            <div class="card-body">
-              <center><h5 class="card-title">Package Name</h5></center>
-              <p class="card-text" style="text-align: justify">Description</p>
-              <table>
-                <tr class="pack-list">
-                  <td>Feature 1</td>
-                </tr>
-                <tr class="pack-list">
-                  <td>Feature 2</td>
-                </tr>
-                <tr class="pack-list">
-                  <td>Feature 3</td>
-                </tr>
-                <tr class="pack-list">
-                  <td>Feature 4</td>
-                </tr>
-              </table>
-              <p class="card-text show-price">&#x20B9; XXXX /person</p>
-              <center><button class="pack-btn" type="button" data-toggle="modal" data-target="#packagemodal2">View Details</button></center>
+                </p>
+                <div class="row">
+                  <div class="col-xs-6 col-md-6 price-name">
+                    Budget <br> Standard <br> Deluxe
+                  </div>
+                  <div class="col-xs-6 col-md-6 price-list">
+                    &#x20B9; 20000 <br> &#x20B9; 24000 <br> &#x20B9; 27000
+                  </div>
+                </div>
+                <!--<center><button class="pack-btn" type="button" data-toggle="modal" data-target="#packagemodal1">View Details</button></center>-->
+              </div>
             </div>
           </div>
-        </div>
 
-        <div class="col-md-4">
-          <div class="card" style="width: 100%;">
-            <img class="card-img-top" src="" alt="Card image ">
-            <div class="card-body">
-              <center><h5 class="card-title">Package Name</h5></center>
-              <p class="card-text" style="text-align: justify">Description</p>
-              <table>
-                <tr class="pack-list">
-                  <td>Feature 1</td>
-                </tr>
-                <tr class="pack-list">
-                  <td>Feature 2</td>
-                </tr>
-                <tr class="pack-list">
-                  <td>Feature 3</td>
-                </tr>
-                <tr class="pack-list">
-                  <td>Feature 4</td>
-                </tr>
-              </table>
-              <p class="card-text show-price">&#x20B9; XXXX /person</p>
-              <center><button class="pack-btn" type="button" data-toggle="modal" data-target="#packagemodal3">View Details</button></center>
+          <div class="col-md-4">
+            <div class="card" style="width: 100%;">
+              <!--<img class="card-img-top" src="" alt="Card image ">-->
+              <div class="card-body">
+                <center><h5 class="card-title" style="font-weight:bold">Package 2</h5></center>
+                <p class="card-text" style="text-align: justify; font-weight: bold">
+                  2N IN PB & 1N HAVELOCK
+                </p>
+                <table>
+                  <tr class="pack-list">
+                    <td>Day 1: Corbyn +jail visit +light and sound show at jail</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 2: Havelock Island: Radhanagar Beach</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 3: Elephant Beach +return to PB</td>
+                  </tr>
+                </table>
+                <p class="card-text" style="text-align: center; font-weight: bold">
+
+                </p>
+                <div class="row">
+                  <div class="col-xs-6 col-md-6 price-name">
+                    Budget <br> Standard <br> Deluxe
+                  </div>
+                  <div class="col-xs-6 col-md-6 price-list">
+                    &#x20B9; 22000 <br> &#x20B9; 25000 <br> &#x20B9; 30000
+                  </div>
+                </div>
+                <!--<center><button class="pack-btn" type="button" data-toggle="modal" data-target="#packagemodal1">View Details</button></center>-->
+              </div>
             </div>
           </div>
+
+          <div class="col-md-4">
+            <div class="card" style="width: 100%;">
+              <!--<img class="card-img-top" src="" alt="Card image ">-->
+              <div class="card-body">
+                <center><h5 class="card-title" style="font-weight:bold">Package 3</h5></center>
+                <p class="card-text" style="text-align: justify; font-weight: bold">
+                  3N IN PB - Havelock day trip
+                </p>
+                <table>
+                  <tr class="pack-list">
+                    <td>Day 1: Corbyn +jail visit +light and sound show at jail</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 2: Havelock Island: Radhanagar Beach</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 3: Baratang Island: limestone caves</td>
+                  </tr>
+                </table>
+                <p class="card-text" style="text-align: center; font-weight: bold">
+
+                </p>
+                <div class="row">
+                  <div class="col-xs-6 col-md-6 price-name">
+                    Budget <br> Standard <br> Deluxe
+                  </div>
+                  <div class="col-xs-6 col-md-6 price-list">
+                    &#x20B9; 24000 <br> &#x20B9; 27000 <br> &#x20B9; 31000
+                  </div>
+                </div>
+                <!--<center><button class="pack-btn" type="button" data-toggle="modal" data-target="#packagemodal1">View Details</button></center>-->
+              </div>
+            </div>
+          </div>
+      </div>
+
+      <div class="">
+        <div class="row py-3 justify-content-md-center">
+          <h3><strong>5 Days and 4 Nights</strong></h3>
         </div>
+        <div class="row py-3">
+          <div class="col-md-4">
+            <div class="card" style="width: 100%;">
+              <!--<img class="card-img-top" src="" alt="Card image ">-->
+              <div class="card-body">
+                <center><h5 class="card-title" style="font-weight:bold">Package 1</h5></center>
+                <p class="card-text" style="text-align: justify; font-weight: bold">
+                  3N PB & 1N HAVELOCK
+                </p>
+                <table>
+                  <tr class="pack-list">
+                    <td>Day 1: Corbyn +jail visit+ light and sound show at jail</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 2: Havelock Island : Radhanagar Beach</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 3: Elephant Beach (Havelock)+return to PB</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 4: Ross & North Bay Island Visit</td>
+                  </tr>
+                </table>
+                <p class="card-text" style="text-align: center; font-weight: bold">
+
+                </p>
+                <div class="row">
+                  <div class="col-xs-6 col-md-6 price-name">
+                    Budget <br> Standard <br> Deluxe
+                  </div>
+                  <div class="col-xs-6 col-md-6 price-list">
+                    &#x20B9; 26000 <br> &#x20B9; 31000 <br> &#x20B9; 37000
+                  </div>
+                </div>
+                <!--<center><button class="pack-btn" type="button" data-toggle="modal" data-target="#packagemodal1">View Details</button></center>-->
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card" style="width: 100%;">
+              <!--<img class="card-img-top" src="" alt="Card image ">-->
+              <div class="card-body">
+                <center><h5 class="card-title" style="font-weight:bold">Package 2</h5></center>
+                <p class="card-text" style="text-align: justify; font-weight: bold">
+                  2N PB, 1N HAVELOCK & 1N NEIL
+                </p>
+                <table>
+                  <tr class="pack-list">
+                    <td>Day 1: Corbyn +jail visit+ light and sound show at jail</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 2: Havelock Island : Radhanagar Beach</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 3: Elephant Beach (Havelock)+proceed to NEIL (neil night stay)</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 4: Natural Bridge+ Laxmanpur beach + Bharathpur beach +Return to PB</td>
+                  </tr>
+                </table>
+                <p class="card-text" style="text-align: center; font-weight: bold">
+
+                </p>
+                <div class="row">
+                  <div class="col-xs-6 col-md-6 price-name">
+                    Budget <br> Standard <br> Deluxe
+                  </div>
+                  <div class="col-xs-6 col-md-6 price-list">
+                    &#x20B9; 27000 <br> &#x20B9; 32000 <br> &#x20B9; 40000
+                  </div>
+                </div>
+                <!--<center><button class="pack-btn" type="button" data-toggle="modal" data-target="#packagemodal1">View Details</button></center>-->
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card" style="width: 100%;">
+              <!--<img class="card-img-top" src="" alt="Card image ">-->
+              <div class="card-body">
+                <center><h5 class="card-title" style="font-weight:bold">Package 3</h5></center>
+                <p class="card-text" style="text-align: justify; font-weight: bold">
+                  3N PB & 1N HAVELOCK
+                </p>
+                <table>
+                  <tr class="pack-list">
+                    <td>Day 1: Corbyn +jail visit+ light and sound show at jail</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 2: Havelock Island : Radhanagar Beach</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 3: Elephant Beach (Havelock)+return to PB</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 4: Baratang Island: limestone caves</td>
+                  </tr>
+                </table>
+                <p class="card-text" style="text-align: center; font-weight: bold">
+
+                </p>
+                <div class="row">
+                  <div class="col-xs-6 col-md-6 price-name">
+                    Budget <br> Standard <br> Deluxe
+                  </div>
+                  <div class="col-xs-6 col-md-6 price-list">
+                    &#x20B9; 30000 <br> &#x20B9; 34000 <br> &#x20B9; 41000
+                  </div>
+                </div>
+                <!--<center><button class="pack-btn" type="button" data-toggle="modal" data-target="#packagemodal1">View Details</button></center>-->
+              </div>
+            </div>
+          </div>
+
+      </div>
+
+      <div class="">
+        <div class="row py-3 justify-content-md-center">
+          <h3><strong>6 Days and 5 Nights</strong></h3>
+        </div>
+        <div class="row py-3">
+          <div class="col-md-4">
+            <div class="card" style="width: 100%;">
+              <!--<img class="card-img-top" src="" alt="Card image ">-->
+              <div class="card-body">
+                <center><h5 class="card-title" style="font-weight:bold">Package 1</h5></center>
+                <p class="card-text" style="text-align: justify; font-weight: bold">
+                  3N PB , 1N HAVELOCK & 1N NEIL (Baratang Island)
+                </p>
+                <table>
+                  <tr class="pack-list">
+                    <td>Day 1: Corbyn +jail visit+ light and sound show at jail</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 2: Havelock Island : Radhanagar Beach</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 3: Elephant Beach (Havelock)+ proceed to NEIL (neil night stay)</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 4: Natural Bridge+ Laxmanpur beach + Bharathpur beach +Return to PB</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 5: Baratang Island: limestone caves</td>
+                  </tr>
+                </table>
+                <p class="card-text" style="text-align: center; font-weight: bold">
+
+                </p>
+                <div class="row">
+                  <div class="col-xs-6 col-md-6 price-name">
+                    Budget <br> Standard <br> Deluxe
+                  </div>
+                  <div class="col-xs-6 col-md-6 price-list">
+                    &#x20B9; 36000 <br> &#x20B9; 41000 <br> &#x20B9; 50000
+                  </div>
+                </div>
+                <!--<center><button class="pack-btn" type="button" data-toggle="modal" data-target="#packagemodal1">View Details</button></center>-->
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="card" style="width: 100%;">
+              <!--<img class="card-img-top" src="" alt="Card image ">-->
+              <div class="card-body">
+                <center><h5 class="card-title" style="font-weight:bold">Package 2</h5></center>
+                <p class="card-text" style="text-align: justify; font-weight: bold">
+                  3N PB , 1N HAVELOCK & 1N NEIL (Ross Island)
+                </p>
+                <table>
+                  <tr class="pack-list">
+                    <td>Day 1: Corbyn +jail visit+ light and sound show at jail</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 2: Havelock Island : Radhanagar Beach</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 3: Elephant Beach (Havelock)+ proceed to NEIL (neil night stay)</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 4: Natural Bridge+ Laxmanpur beach + Bharathpur beach +Return to PB</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 5: Ross & North Bay Islands Visit</td>
+                  </tr>
+                </table>
+                <p class="card-text" style="text-align: center; font-weight: bold">
+
+                </p>
+                <div class="row">
+                  <div class="col-xs-6 col-md-6 price-name">
+                    Budget <br> Standard <br> Deluxe
+                  </div>
+                  <div class="col-xs-6 col-md-6 price-list">
+                    &#x20B9; 32000 <br> &#x20B9; 37000 <br> &#x20B9; 47000
+                  </div>
+                </div>
+                <!--<center><button class="pack-btn" type="button" data-toggle="modal" data-target="#packagemodal1">View Details</button></center>-->
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="card" style="width: 100%;">
+              <!--<img class="card-img-top" src="" alt="Card image ">-->
+              <div class="card-body">
+                <center><h5 class="card-title" style="font-weight:bold">Package 3</h5></center>
+                <p class="card-text" style="text-align: justify; font-weight: bold">
+                  2N PB , 2N HAVELOCK & 1N NEIL
+                </p>
+                <table>
+                  <tr class="pack-list">
+                    <td>Day 1: Corbyn +jail visit+ light and sound show at jail</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 2: Havelock Island : Radhanagar Beach</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 3: Elephant Beach (Havelock)</td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 4: Proceed to NEIL - Natural Bridge+ Laxmanpur beach + Bharathpur beach </td>
+                  </tr>
+                  <tr class="pack-list">
+                    <td>Day 5: Return to PB</td>
+                  </tr>
+                </table>
+                <p class="card-text" style="text-align: center; font-weight: bold">
+
+                </p>
+                <div class="row">
+                  <div class="col-xs-6 col-md-6 price-name">
+                    Budget <br> Standard <br> Deluxe
+                  </div>
+                  <div class="col-xs-6 col-md-6 price-list">
+                    &#x20B9; 31000 <br> &#x20B9; 36000 <br> &#x20B9; 46000
+                  </div>
+                </div>
+                <!--<center><button class="pack-btn" type="button" data-toggle="modal" data-target="#packagemodal1">View Details</button></center>-->
+              </div>
+            </div>
+          </div>
+      </div>
+
 
     </div>
 
